@@ -6,6 +6,7 @@ import { Providers } from "./providers"
 import { SiteHeader } from "@/components/layout/site-header"
 import { SiteFooter } from "@/components/layout/site-footer"
 import { ThemeProvider } from "@/components/theme-provider"
+import { Analytics } from "@vercel/analytics/react"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -13,30 +14,28 @@ export const metadata: Metadata = {
   title: "OdinSNES - Play Classic SNES Games Online",
   description: "Play your favorite Super Nintendo games directly in your browser. Free SNES emulator with save states, gamepad support, and more.",
   icons: {
-    icon: '/images/snes-controller-logo.png',
-    shortcut: '/images/snes-controller-logo.png',
-    apple: '/images/snes-controller-logo.png',
+    icon: 'https://odinsnes.fun/images/snes-controller-logo.png',
+    shortcut: 'https://odinsnes.fun/images/snes-controller-logo.png',
+    apple: 'https://odinsnes.fun/images/snes-controller-logo.png',
   },
+  metadataBase: new URL('https://odinsnes.fun'),
   openGraph: {
     type: 'website',
     url: 'https://odinsnes.fun',
     title: 'OdinSNES - Classic SNES Games',
     description: 'Play classic Super Nintendo games online with our free emulator. Features save states, gamepad support, and a growing game library.',
     siteName: 'OdinSNES',
-    images: [
-      {
-        url: '/images/snes-controller-logo.png',
-        width: 1200,
-        height: 630,
-        alt: 'OdinSNES - SNES Emulator',
-      },
-    ],
+    images: [{
+      url: '/images/snes-controller-logo.png',
+      width: 1200,
+      height: 630,
+      alt: 'OdinSNES - SNES Emulator',
+    }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'OdinSNES - Play SNES Games Online',
     description: 'Play classic Super Nintendo games in your browser',
-    images: ['/images/snes-controller-logo.png'],
   },
 }
 
@@ -77,6 +76,7 @@ export default function RootLayout({
               <SiteFooter />
             </div>
           </Providers>
+          <Analytics />
         </ThemeProvider>
       </body>
     </html>
