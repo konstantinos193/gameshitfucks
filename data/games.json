@@ -1,0 +1,223 @@
+{
+  "chrono-trigger": {
+    "id": 27,
+    "title": "Chrono Trigger",
+    "slug": "chrono-trigger",
+    "year": 1995,
+    "hits": "0",
+    "rating": 86,
+    "genre": "RPG",
+    "playTime": "20-25 hours",
+    "players": "1 player",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/en/a/a7/Chrono_Trigger.jpg",
+    "bannerImage": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/613830/header.jpg?t=1719545360",
+    "romFileName": "Chrono Trigger (USA).sfc",
+    "ipfsCid": "QmYourIPFSHashHere",
+    "description": [
+      "Chrono Trigger is a role-playing video game developed and published by Square for the Super Nintendo Entertainment System in 1995.",
+      "The game's development team included three designers that Square dubbed the \"Dream Team\": Hironobu Sakaguchi, creator of Square's Final Fantasy series; Yuji Horii, creator of Enix's Dragon Quest series; and Akira Toriyama, character designer of Dragon Quest and author of the Dragon Ball manga series."
+    ],
+    "features": [
+      "Innovative battle system with no random encounters",
+      "Multiple endings based on player choices",
+      "Unique time travel mechanic that affects the game world",
+      "Memorable soundtrack composed by Yasunori Mitsuda",
+      "Collaborative character designs by Akira Toriyama",
+      "New Game+ feature that allows replaying with carried-over stats"
+    ],
+    "screenshots": [
+      "/placeholder.svg?height=300&width=400",
+      "/placeholder.svg?height=300&width=400",
+      "/placeholder.svg?height=300&width=400",
+      "/placeholder.svg?height=300&width=400",
+      "/placeholder.svg?height=300&width=400",
+      "/placeholder.svg?height=300&width=400"
+    ],
+    "similarGames": [
+      {
+        "id": 60,
+        "title": "Final Fantasy VI",
+        "slug": "final-fantasy-6",
+        "year": 1994,
+        "rating": 84,
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": 50,
+        "title": "EarthBound",
+        "slug": "earthbound",
+        "year": 1994,
+        "rating": 87,
+        "image": "/placeholder.svg?height=200&width=300"
+      },
+      {
+        "id": 144,
+        "title": "Secret of Mana",
+        "slug": "secret-of-mana",
+        "year": 1993,
+        "rating": 85,
+        "image": "/placeholder.svg?height=200&width=300"
+      }
+    ]
+  },
+  "final-fantasy-6": {
+    "id": 28,
+    "title": "Final Fantasy VI",
+    "slug": "final-fantasy-6",
+    "year": 1994,
+    "hits": "0",
+    "rating": 92,
+    "genre": "RPG",
+    "playTime": "30-35 hours",
+    "players": "1 player",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/en/0/05/Final_Fantasy_VI.jpg",
+    "bannerImage": "https://upload.wikimedia.org/wikipedia/en/0/05/Final_Fantasy_VI.jpg",
+    "romFileName": "Final Fantasy VI (J).smc",
+    "description": [
+      "Final Fantasy VI is a role-playing video game developed and published by Square for the Super Nintendo Entertainment System."
+    ],
+    "features": ["Rich character development", "Innovative magic system"],
+    "screenshots": ["/placeholder.svg"]
+  },
+  "star-fox": {
+    "id": 29,
+    "title": "Star Fox",
+    "slug": "star-fox",
+    "year": 1993,
+    "hits": "0",
+    "rating": 88,
+    "genre": "Rail Shooter",
+    "playTime": "2-3 hours",
+    "players": "1 player",
+    "coverImage": "https://bsnes.org/wp-content/uploads/2023/03/Star-Fox.jpg",
+    "bannerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdqtioiBtqQodFbOCNDNrDkg7yjUYzMlnoiQ&s",
+    "romFileName": "Star Fox (USA) (Rev 2).sfc",
+    "description": ["Star Fox is a rail shooter video game developed by Nintendo and Argonaut Software."],
+    "features": ["3D graphics using Super FX chip", "Multiple paths through the game"],
+    "screenshots": ["/placeholder.svg"]
+  },
+  "street-fighter-2-turbo": {
+    "id": 30,
+    "title": "Street Fighter II Turbo",
+    "slug": "street-fighter-2-turbo",
+    "year": 1993,
+    "hits": "0",
+    "rating": 90,
+    "genre": "Fighting",
+    "playTime": "N/A",
+    "players": "1-2 players",
+    "coverImage": "https://www.lukiegames.com/assets/images/SNES/snes_street_fighter_ii_2_turbo_p_b3pmml.jpg",
+    "bannerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiA7ikCjQG5hjmJdWmeRSX_mSI5bNK38rayw&s",
+    "romFileName": "Street Fighter II Turbo (USA) (Rev 1).sfc",
+    "description": ["Street Fighter II Turbo: Hyper Fighting is a competitive fighting game by Capcom."],
+    "features": ["Turbo speed options", "Improved character balance"],
+    "screenshots": ["/placeholder.svg"]
+  },
+  "super-mario-kart": {
+    "id": 31,
+    "title": "Super Mario Kart",
+    "slug": "super-mario-kart",
+    "year": 1992,
+    "hits": "0",
+    "rating": 94,
+    "genre": "Racing",
+    "playTime": "N/A",
+    "players": "1-2 players",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/en/3/38/Supermariokart_box.JPG",
+    "bannerImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3abd9d7a-a56a-403c-aca5-22b4e5cf203f/diaifu2-504d98d7-f643-4625-a0e1-2ad21a3b8422.jpg/v1/fill/w_1280,h_720,q_75,strp/super_mario_kart_banner_by_zackfire456_diaifu2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvM2FiZDlkN2EtYTU2YS00MDNjLWFjYTUtMjJiNGU1Y2YyMDNmXC9kaWFpZnUyLTUwNGQ5OGQ3LWY2NDMtNDYyNS1hMGUxLTJhZDIxYTNiODQyMi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Kxkd8EDI3vFvX1-0LA4n7DtauOX_5TWKOENDR3GJytI",
+    "romFileName": "Super Mario Kart (USA).sfc",
+    "description": ["Super Mario Kart is a kart racing game featuring Mario franchise characters."],
+    "features": ["8 playable characters", "Battle mode", "Split-screen multiplayer"],
+    "screenshots": ["/placeholder.svg"]
+  },
+  "super-mario-rpg": {
+    "id": 32,
+    "title": "Super Mario RPG",
+    "slug": "super-mario-rpg",
+    "year": 1996,
+    "hits": "0",
+    "rating": 89,
+    "genre": "RPG",
+    "playTime": "15-20 hours",
+    "players": "1 player",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/en/8/89/SuperMarioRPGSNESCoverArtUS.jpg",
+    "bannerImage": "https://upload.wikimedia.org/wikipedia/commons/4/46/Super_Mario_RPG_Logo.png",
+    "romFileName": "Super Mario RPG - Legend of the Seven Stars (USA).sfc",
+    "description": ["Super Mario RPG is a role-playing video game developed by Square."],
+    "features": ["Innovative timed-hit battle system", "Isometric 3D graphics"],
+    "screenshots": ["/placeholder.svg"]
+  },
+  "super-mario-world": {
+    "id": 33,
+    "title": "Super Mario World",
+    "slug": "super-mario-world",
+    "year": 1990,
+    "hits": "0",
+    "rating": 94,
+    "genre": "Platformer",
+    "playTime": "5-10 hours",
+    "players": "1-2 players",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/en/3/32/Super_Mario_World_Coverart.png",
+    "bannerImage": "https://upload.wikimedia.org/wikipedia/en/3/32/Super_Mario_World_Coverart.png",
+    "romFileName": "Super Mario World (U) [!].smc",
+    "description": ["Super Mario World is a platform game developed and published by Nintendo."],
+    "features": ["Introduction of Yoshi", "96 exits to find"],
+    "screenshots": ["/placeholder.svg"]
+  },
+  "yoshis-island": {
+    "id": 34,
+    "title": "Super Mario World 2: Yoshi's Island",
+    "slug": "yoshis-island",
+    "year": 1995,
+    "hits": "0",
+    "rating": 91,
+    "genre": "Platformer",
+    "playTime": "10-15 hours",
+    "players": "1 player",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/en/9/9a/Yoshi%27s_Island_%28Super_Mario_World_2%29_box_art.jpg",
+    "bannerImage": "https://upload.wikimedia.org/wikipedia/en/9/9a/Yoshi%27s_Island_%28Super_Mario_World_2%29_box_art.jpg",
+    "romFileName": "Super Mario World 2 - Yoshi's Island (USA).sfc",
+    "description": ["Yoshi's Island is a platform game developed and published by Nintendo."],
+    "features": ["Unique art style", "Innovative egg-throwing mechanics"],
+    "screenshots": ["/placeholder.svg"]
+  },
+  "super-metroid": {
+    "id": 35,
+    "title": "Super Metroid",
+    "slug": "super-metroid",
+    "year": 1994,
+    "hits": "0",
+    "rating": 96,
+    "genre": "Action-Adventure",
+    "playTime": "7-12 hours",
+    "players": "1 player",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/en/e/e4/Smetroidbox.jpg",
+    "bannerImage": "https://upload.wikimedia.org/wikipedia/en/e/e4/Smetroidbox.jpg",
+    "romFileName": "Super Metroid (Japan, USA) (En,Ja).sfc",
+    "description": ["Super Metroid is an action-adventure game developed and published by Nintendo."],
+    "features": ["Non-linear exploration", "Atmospheric soundtrack"],
+    "screenshots": ["/placeholder.svg"]
+  },
+  "zelda-a-link-to-the-past": {
+    "id": 8,
+    "title": "The Legend of Zelda: A Link to the Past",
+    "slug": "zelda-a-link-to-the-past",
+    "year": 1991,
+    "hits": "0",
+    "rating": 97,
+    "genre": "Action-Adventure",
+    "playTime": "15-20 hours",
+    "players": "1 player",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/en/2/21/The_Legend_of_Zelda_A_Link_to_the_Past_SNES_Game_Cover.jpg",
+    "bannerImage": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/super_nintendo_5/H2x1_SNES_TheLegendOfZeldaALinkToThePast_image1600w.jpg",
+    "romFileName": "zelda-a-link-to-the-past.sfc",
+    "description": [
+      "The Legend of Zelda: A Link to the Past is an action-adventure game developed and published by Nintendo for the Super Nintendo Entertainment System."
+    ],
+    "features": [
+      "Classic top-down Zelda gameplay",
+      "Two parallel worlds to explore"
+    ],
+    "screenshots": ["/placeholder.svg"]
+  }
+}
